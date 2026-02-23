@@ -225,4 +225,4 @@ You can contact me at vadi@securihub.com
 
 ## Stack
 
-[![Stack](https://skillicons.dev/icons?i=py,linux,git&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,linux&theme=dark)](https://skillicons.dev)
