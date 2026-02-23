@@ -16,7 +16,7 @@ ports. This tool is recommended for bug bounty hunters and pentester in their re
 
 If you want to use more OSINT engines, fill the **config.api** file with the needed API tokens
 
-### Passive Mode:
+## Passive Mode:
 
 Use OSINT techniques to obtain subdomains from the target. This mode will not make any connection to the target so it
 is **undetectable**.
@@ -92,7 +92,7 @@ python dome.py --help
 
 ![tool_in_action](https://i.imgur.com/3qN5WiJ.png)
 
-#### Passive mode:
+### Passive mode:
 
 ![tool_in_action](https://i.imgur.com/og06Cn0.png)
 
