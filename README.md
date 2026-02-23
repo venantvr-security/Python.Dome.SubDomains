@@ -222,3 +222,7 @@ python dome.py -m active -d domain -w wordlist.txt -p 22,80,3306
 You can contact me at vadi@securihub.com
 
 **License: for commercial use, contact me at email above**
+
+## Stack
+
+[![Stack](https://skillicons.dev/icons?i=py,linux,git&theme=dark)](https://skillicons.dev)
